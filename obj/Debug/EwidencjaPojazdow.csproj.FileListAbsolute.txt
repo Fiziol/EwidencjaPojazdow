@@ -1,0 +1,9 @@
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.csproj.AssemblyReference.cache
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.Properties.Resources.resources
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.csproj.GenerateResource.cache
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.csproj.CoreCompileInputs.cache
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\bin\Debug\EwidencjaPojazdow.exe.config
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\bin\Debug\EwidencjaPojazdow.exe
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\bin\Debug\EwidencjaPojazdow.pdb
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.exe
+C:\Users\firla\source\repos\EwidencjaPojazdow\EwidencjaPojazdow\obj\Debug\EwidencjaPojazdow.pdb
